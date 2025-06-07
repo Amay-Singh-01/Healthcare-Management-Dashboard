@@ -34,6 +34,7 @@ This project offers:
 
 The Healthcare Power BI Dashboard project is aimed at aiding Hospital Management Teams in efficiently managing and analyzing critical data for better decision-making processes.
 
-<img width="700" alt="image" src="https://github.com/Amay-Singh-01/HealthCare-Dashboard/Hospital Summary.png">
-<img width="700" alt="image" src="https://github.com/Amay-Singh-01/HealthCare-Dashboard/Patients Summary.png">
+<img width="700" alt="Hospital Summary" src="https://raw.githubusercontent.com/Amay-Singh-01/HealthCare-Dashboard/main/Hospital%20Summary.png">
+
+<img width="700" alt="Patients Summary" src="https://raw.githubusercontent.com/Amay-Singh-01/HealthCare-Dashboard/main/Patients%20Summary.png">
 
